@@ -1,3 +1,14 @@
+#gyp-app
+∗ This is a Gym App.
+
+∗ Features: It displays different kinds of exercises.
+
+∗ Provides different categories to search and also provide similar exercises.
+
+∗ Project Deployment Link: https://rp-gym.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
