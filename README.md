@@ -1,4 +1,5 @@
-#gyp-app
+#**gym-app**
+
 ∗ This is a Gym App.
 
 ∗ Features: It displays different kinds of exercises.
